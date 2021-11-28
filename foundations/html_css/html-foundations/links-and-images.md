@@ -65,7 +65,7 @@ We've already seen an absolute link in action. The link we created to The Odin P
 
 #### Relative Links
 
-Links to other pages within our own website are called relative links. Relative links do not include the domain name, since it is another page on the same site, it assumes the domain name will be the same as the page we created the link on.
+Links to other pages within our own website are called relative links. Relative links do not include the protocol and domain name, since it is another page on the same site, it assumes the protocol and domain name will be the same as the page we created the link on.
 
 Relative links only include the file path to the other page, *relative* to the page you are creating the link on. This is quite abstract, let's see this in action using an example.
 
